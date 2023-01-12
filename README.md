@@ -17,8 +17,4 @@ I AM SKILLED IN
     
 I LOVE TO STAY HUNGRY AND FOOLISH ABOUT ANY TECH RELATED TREND, GENERALLY A COMPUTER LOVER
 
-
-[![Bahati308's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahati308)](https://github.com/bahati308/github-readme-stats)
-
-
 #CODE YUOR ASS OFF
