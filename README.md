@@ -18,7 +18,7 @@ I AM SKILLED IN
 I LOVE TO STAY HUNGRY AND FOOLISH ABOUT ANY TECH RELATED TREND, GENERALLY A COMPUTER LOVER
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bahati308)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?bahati308=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #CODE YUOR ASS OFF
